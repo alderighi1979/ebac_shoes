@@ -37,10 +37,3 @@ header ul li a{
     color: #f9fcff;
     font-size: 18px;
 }
-
-.produtos{
-    display: grid;
-    grid-template-columns: repeat(3, 32.6%);
-    column-gap: 1%;
-    row-gap: 5px;
-}
